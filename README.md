@@ -1,6 +1,6 @@
-<div style="background-color: rgb(141, 67, 211); border-radius: 3px; padding: 10px; display: flex; gap: 2rem;"><h1>💫 About Me:</h1>
-  <img style="background-color: #222" src="https://github.com/Daniel-L10N/Various_tools/blob/main/recursos/gif/Hello_work.gif" alt="Hello Wwork">
-</div>
+<h1>💫 About Me:</h1>
+  <img src="https://github.com/Daniel-L10N/Various_tools/blob/main/recursos/gif/website-design-development.gif" width="400" height="300" alt="Hello Work">
+
 
 
 ### Hello, world! 👋<br><br>Welcome to my GitHub profile! I'm Daniel Alejandro, a passionate 19-year-old programmer living in Cuba and ready to conquer the world of technology.<br><br>Ever since I discovered my passion for programming, I have been committed to learning, growing, and above all, challenging myself in every project I participate in. My goal is to become an innovative developer and contribute to projects that make a difference.<br><br>I am a lover of clean code and optimization. I enjoy finding efficient and elegant solutions to the challenges that come my way. I am always open to new technologies and programming languages, eager to learn and apply fresh knowledge in my projects.<br><br>In addition to my passion for programming, I also enjoy teamwork and contributing in collaborative environments. I firmly believe in the importance of sharing knowledge and helping other developers grow.<br><br>I am excited about the possibility of being part of challenging projects that allow me to expand my skills and knowledge. If you're looking for a committed, creative programmer with a strong desire to learn, don't hesitate to contact me!<br><br>Let's do amazing things together and build the future of technology!
