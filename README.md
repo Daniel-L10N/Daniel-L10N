@@ -1,5 +1,5 @@
-<div style="background-color: #222; padding: 10px; display: flex; gap: 2rem;"><h1>💫 About Me:</h1>
-  <img src="https://github.com/Daniel-L10N/Various_tools/blob/main/recursos/gif/Hello_work.gif" alt="Hello Wwork">
+<div style="background-color: rgb(141, 67, 211); border-radius: 3px; padding: 10px; display: flex; gap: 2rem;"><h1>💫 About Me:</h1>
+  <img style="background-color: #222" src="https://github.com/Daniel-L10N/Various_tools/blob/main/recursos/gif/Hello_work.gif" alt="Hello Wwork">
 </div>
 
 
