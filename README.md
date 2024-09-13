@@ -6,6 +6,27 @@
 ### Hello, world! 👋<br><br>[**Download my cv**](Daniel_Lazo.pdf)<br><br/>Welcome to my GitHub profile! I'm Daniel Alejandro, a passionate 20-year-old programmer living in Mexico and ready to conquer the world of technology.<br><br>Ever since I discovered my passion for programming, I have been committed to learning, growing, and above all, challenging myself in every project I participate in. My goal is to become an innovative developer and contribute to projects that make a difference.<br><br>I am a lover of clean code and optimization. I enjoy finding efficient and elegant solutions to the challenges that come my way. I am always open to new technologies and programming languages, eager to learn and apply fresh knowledge in my projects.<br><br>In addition to my passion for programming, I also enjoy teamwork and contributing in collaborative environments. I firmly believe in the importance of sharing knowledge and helping other developers grow.<br><br>I am excited about the possibility of being part of challenging projects that allow me to expand my skills and knowledge. If you're looking for a committed, creative programmer with a strong desire to learn, don't hesitate to contact me!<br><br>Let's do amazing things together and build the future of technology!
 
 
+- uses: Platane/snk@v3
+  with:
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    github_user_name: ${{ github.repository_owner }}
+
+    # list of files to generate.
+    # one file per line. Each output can be customized with options as query string.
+    #
+    #  supported options:
+    #  - palette:     A preset of color, one of [github, github-dark, github-light]
+    #  - color_snake: Color of the snake
+    #  - color_dots:  Coma separated list of dots color.
+    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
+    #                 Exactly 5 colors are expected.
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/daniel0001) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100087892541153) 
 
